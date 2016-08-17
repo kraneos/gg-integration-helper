@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "Name": "BUENOS AIRES"
+  },
+  {
+    "Id": 2,
+    "Name": "SAN JUAN"
+  },
+  {
+    "Id": 3,
+    "Name": "SAN LUIS"
+  },
+  {
+    "Id": 4,
+    "Name": "CHUBUT"
+  },
+  {
+    "Id": 5,
+    "Name": "NEUQUEN"
+  },
+  {
+    "Id": 6,
+    "Name": "TIERRA DEL FUE"
+  },
+  {
+    "Id": 7,
+    "Name": "MISIONES"
+  },
+  {
+    "Id": 8,
+    "Name": "FORMOSA"
+  },
+  {
+    "Id": 9,
+    "Name": "SANTA FE"
+  },
+  {
+    "Id": 10,
+    "Name": "MENDOZA"
+  },
+  {
+    "Id": 11,
+    "Name": "LA RIOJA"
+  },
+  {
+    "Id": 12,
+    "Name": "SALTA"
+  },
+  {
+    "Id": 13,
+    "Name": "JUJUY"
+  },
+  {
+    "Id": 14,
+    "Name": "ENTRE RIOS"
+  },
+  {
+    "Id": 15,
+    "Name": "CORRIENTES"
+  },
+  {
+    "Id": 16,
+    "Name": "CATAMARCA"
+  },
+  {
+    "Id": 17,
+    "Name": "TUCUMAN"
+  },
+  {
+    "Id": 18,
+    "Name": "SANTA CRUZ"
+  },
+  {
+    "Id": 19,
+    "Name": "CHACO"
+  },
+  {
+    "Id": 20,
+    "Name": "SANTIA DEL ESTERO"
+  },
+  {
+    "Id": 21,
+    "Name": "CORDOBA"
+  },
+  {
+    "Id": 22,
+    "Name": "- Seleccione -"
+  },
+  {
+    "Id": 23,
+    "Name": "LA PAMPA"
+  },
+  {
+    "Id": 24,
+    "Name": "RIO NEGRO"
+  }
+]

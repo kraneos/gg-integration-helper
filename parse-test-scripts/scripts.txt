@@ -1,0 +1,1 @@
+gulp destroy-all --SERVERURL http://seggu-api-develop.herokuapp.com/parse/ --APPID seggu-api --MASTERKEY {B39EC4DE-2F1C-40AF-906E-9CDA7BA2BD7B}
