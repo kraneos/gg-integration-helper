@@ -120,6 +120,9 @@ function queryAndDestroy(something) {
         'Address',
         'CashAccount',
         'Session',
+        'Coverage',
+        'CoveragesPack',
+        'Casualty'
         // 'Bank',
         // 'Bodywork',
         // 'Brand',
